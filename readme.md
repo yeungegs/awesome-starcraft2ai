@@ -5,25 +5,39 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official Repos](#official-repos)
+- [Setup](#another-section)
+- [Tutorials](#tutorials)
+- [Bots](#bots)
+- [MiniGames](#minigames)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Official Repos
+
+- [s2client-api](https://github.com/Blizzard/s2client-api)
+- [s2client-proto](https://github.com/Blizzard/s2client-proto)
+- [PySC2](https://github.com/deepmind/pysc2)
+
+## Setup
 
 
-## Section
+## Tutorials
 
-About this section. Optional. Keep this short and focus on the list.
+### Beginner
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+### Intermediate
 
-## Another Section
+### Advanced
 
-### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
+## Bots
+
+## MiniGames
 
 ## Contribute
 
@@ -34,5 +48,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Elaine Yeung has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, Elaine Yeung has waived all copyright and related or neighboring rights to this work.
